@@ -1,1 +1,3 @@
-https://t6t7c.github.io/Xr54/Cheeky_Ghost_Girl-0.16.1-web/index.html
+```sh
+npx http-server -p 8000 -a 127.0.0.1 -c3600 --silent 
+```
